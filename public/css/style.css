@@ -1,0 +1,55 @@
+body {
+    background-image: url("/images/weather-02.jpeg") ;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+#parag{
+    color: #fff;
+    background-color:#0f4c5c;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 1.50vw;
+    margin: auto;
+    margin-top: 20px;
+}
+#form1 {
+    background-color:#004b23;
+    height: 55px;
+    margin: auto;
+    border-radius: 15px;
+}
+#address , button {
+    margin: 10px 0px;
+}
+#address {
+    height: 30px;
+    margin-left: 10px;
+}
+button {
+    width: 150px;
+    background-color: #5a0001;
+    color: #fff;
+    height: 35px;
+    font-size: 17px;
+}
+
+#details h2 {
+    background-color:#0f4c5c;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 1.50vw;
+    margin: auto;
+    margin-top: 20px;
+
+    text-align: left;
+    padding-left: 10px;
+    color: bisque;
+    visibility: hidden;
+}
